@@ -1,0 +1,123 @@
+
+*{
+    font-family: 'Source Sans Pro', sans-serif;
+    margin:0;
+}
+
+header{
+  
+    display: flex;
+    background-color: rgb(255, 255, 255);
+}
+img{
+    width: 30px;
+    padding: 10px;
+}
+details{
+    position: relative;
+    top: 12px;
+    margin-left: 15px;
+    width: 75px;
+}
+input{
+    position: relative;
+    top: 13px;
+    left: 40px;
+    width: 30%;
+    height: 15px;
+    border-radius: 5px;
+}
+#search{
+    position: relative;
+    width: 11px;
+    height: 13px;
+    top: 6px;
+    right: 1px;
+}
+#b1{
+    background-color: rgb(62, 208, 62);
+    width: 100px;
+    border-radius: 20px;
+    padding-right: 40px;
+}
+#b2{
+    background-color: rgba(112, 38, 38, 0.795);
+width: 100px;
+border-radius: 20px;
+position: relative;
+padding-left: 40px;
+padding-right: 70px;
+align-items: center;
+right: 40px;
+z-index: -100;
+padding-left: 50px;
+}
+a{
+   
+    padding: 17px;
+    color: white;
+    text-decoration: none;
+
+}
+nav{
+    background-color:rgb(13,23,33);
+    padding: 10px;
+
+}
+#b11{
+    padding-right: 0px;
+    background-color: lightgreen;
+    position: relative;
+    left: 420px;
+    height: 30px;
+    top: 10px;
+    border-radius: 10px;
+}
+#b22{
+    text-align: start;
+    position: relative;
+    left: 400px;
+   text-align: center;
+    height: 30px;
+    top: 10px;
+    border-radius: 5px;
+}
+#main{
+    background-color: rgb(13,23,33);
+    height: 88.2vh;
+    background-image: url(https://www.w3schools.com/images/background_in_space.webp);
+}
+    h1{
+        padding-top: 70px;
+        position: relative;
+        font-weight: bolder;
+        top: 50px;
+        color: rgb(255, 255, 255);
+        text-align: center;
+        font-size: 50px;
+    }
+    h3{
+        padding-top: 25px;
+        text-align: center;
+        position: relative;
+        font-size:20px;
+        top: 35px;
+        color: rgb(240, 233, 127);
+    }
+  #input1{
+
+    top: 100px;
+    left: -1px;
+    height: 35px;
+    border-radius: 15px;
+    
+    
+  }
+  #not{
+    text-decoration: underline;
+    color: white;
+    position: relative;
+    top: 120px;
+font-weight: bolder;
+    font-size: 20px;
+  }
